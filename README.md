@@ -2,7 +2,7 @@
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Angular+Developer;Content+Creator" alt="Typing SVG" /> </div>
 
- <div align="center"> <img src="https://komarev.com/ghpvc/?username=afshinKariml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/afshinKariml?label=Followers&style=social" alt="GitHub Followers" /> <img src="https://img.shields.io/badge/Content-Creator-orange?style=flat&logo=youtube" alt="Content Creator" /> </div>
+ <div align="center"> <img src="https://komarev.com/ghpvc/?username=afshinKariml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/afshinKariml?label=Followers&style=social" alt="GitHub Followers" /> <img src="[https://img.shields.io/badge/Content-Creator-orange?style=flat&logo=youtube](https://img.shields.io/badge/Content-Creator-orange?style=flat&logo=telegram)" alt="Content Creator" /> </div>
 
 ---
 
