@@ -1,14 +1,8 @@
-# Hi, I'm Afshin Karimi 👋
+# Hi there, I'm Afshin Karimi 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Angular+Developer+%7C+Rust+Enthusiast;Community+Builder+%7C+10K%2B+Members;WebAssembly+%26+Modern+Web+Tech;Building+the+Future+of+Web" alt="Typing SVG" />
-</div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Angular+Developer;Content+Creator" alt="Typing SVG" /> </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=afshinKariml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/afshinKariml?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Community-10K%2B%20Members-blue?style=flat&logo=telegram" alt="Community Members" />
-</div>
+ <div align="center"> <img src="https://komarev.com/ghpvc/?username=afshinKariml&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/afshinKariml?label=Followers&style=social" alt="GitHub Followers" /> <img src="https://img.shields.io/badge/Content-Creator-orange?style=flat&logo=youtube" alt="Content Creator" /> </div>
 
 ---
 
@@ -20,11 +14,10 @@ const developer = {
   role: "Frontend Developer",
   age: 20,
   location: "Isfahan, Iran",
-  passion: ["Angular","NodeJs"],
-  lifeBalance: ["💻 Coding", "💪 Fitness", "📱 Content Creation", "📚 Learning"]
+  passion: ["Angular", "NodeJs"],
+  lifeBalance: ["💻 Coding", "💪 Fitness", "📱 Content Creation", "📚 Learning"],
 };
 ```
-
 
 ## Tech Stack 💻
 
@@ -68,12 +61,12 @@ const developer = {
 
 <div align="center">
 
-| Channel | Purpose | Members |
-|---------|---------|---------|
-| 🎯 [DevYar](https://t.me/DevYara) | Main Development Channel | 10K+ |
-| 📚 [ArchiveDevs](https://t.me/ArchiveDevs) | Programming Resources | 600 |
-| 💬 [TopicsDev](https://t.me/TopicsDev) | Discussion Topics | 1.5K |
-| ❓ [ChatDevGap](https://t.me/ChatDevGap) | Q&A Community | 1.4K |
+| Channel                                    | Purpose                  | Members |
+| ------------------------------------------ | ------------------------ | ------- |
+| 🎯 [DevYar](https://t.me/DevYara)          | Main Development Channel | 10K+    |
+| 📚 [ArchiveDevs](https://t.me/ArchiveDevs) | Programming Resources    | 600     |
+| 💬 [TopicsDev](https://t.me/TopicsDev)     | Discussion Topics        | 1.5K    |
+| ❓ [ChatDevGap](https://t.me/ChatDevGap)   | Q&A Community            | 1.4K    |
 
 </div>
 
@@ -93,7 +86,6 @@ const developer = {
 <div align="center">
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.coffeete.ir/AfshinKarimi)
-
 
 </div>
 
