@@ -66,7 +66,7 @@ const developer = {
 | 🎯 [DevYar](https://t.me/DevYara)          | Main Development Channel | 10K+    |
 | 📚 [ArchiveDevs](https://t.me/ArchiveDevs) | Programming Resources    | 600     |
 | 💬 [TopicsDev](https://t.me/TopicsDev)     | Discussion Topics        | 1.5K    |
-| ❓ [ChatDevGap](https://t.me/ChatDevGap)   | Q&A Community            | 1.4K    |
+| ❓ [ChatDevGap](https://t.me/ChatDevGp)   | Q&A Community            | 1.4K    |
 
 </div>
 
