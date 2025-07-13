@@ -64,7 +64,7 @@ const developer = {
 | Channel                                    | Purpose                  | Members |
 | ------------------------------------------ | ------------------------ | ------- |
 | 🎯 [DevYar](https://t.me/DevYara)          | Main Development Channel | 10K+    |
-| 📚 [ArchiveDevs](https://t.me/ArchiveDevs) | Programming Resources    | 700     |
+| 📚 [ArchiveDevs](https://t.me/ArchiveDevs) | Programming Resources    | 1K     |
 | 💬 [TopicsDev](https://t.me/TopicsDev)     | Discussion Topics        | 1.5K    |
 | ❓ [ChatDevGap](https://t.me/ChatDevGp)   | Q&A Community            | 1.4K    |
 
