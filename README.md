@@ -43,6 +43,7 @@ const developer = {
 <a href="https://nodejs.org/en/docs/">![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)</a>
 <a href="https://expressjs.com/">![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)</a>
 <a href="https://doc.rust-lang.org/">![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)</a>
+<a href="https://github.com/typicode/json-server">![Json-Server](https://img.shields.io/badge/JSON_Server-000000?style=for-the-badge&logo=json&logoColor=white)</a>
 
 </div>
 
